@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("Pick and Place File to DXF")]
-[assembly: AssemblyDescription("1: 可以将坐标文件生成DXF格式图纸 \r\n2: 可以读取DXF坐标 ")]
+[assembly: AssemblyDescription("0: 本程序为开源,项目地址:https://github.com/wangjiati/Pick-and-Place-File-to-DXF \r\n1: 可以将坐标文件生成DXF格式图纸 \r\n2: 可以读取DXF坐标")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Pick and Place File to DXF")]
